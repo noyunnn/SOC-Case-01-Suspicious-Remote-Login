@@ -1,5 +1,5 @@
 # SOC-Case-01-Suspicious-Remote-Login
-## Project Overvie
+## Project Overview
 Markdown
 This project presents a simulated SOC investigation of suspicious remote login activity in a Windows environment.
 The investigation focuses on analyzing Windows Security Events, identifying unusual authentication patterns, reviewing process activity, and assessing potential account compromise.
